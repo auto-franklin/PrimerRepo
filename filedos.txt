@@ -1,0 +1,4 @@
+se agrega esto?
+
+
+:wq -> para exit and save
